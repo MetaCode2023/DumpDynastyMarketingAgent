@@ -1,0 +1,12 @@
+{
+  "mcpServers": {
+    "ghl": {
+      "command": "npx",
+      "args": ["ghl-mcp-server"],
+      "env": {
+        "GHL_API_KEY": "pit-7f43ddf3-cf39-4a94-aeb4-ad90c0689a0a",
+        "GHL_LOCATION_ID": "YOUR_LOCATION_ID_HERE"
+      }
+    }
+  }
+}
