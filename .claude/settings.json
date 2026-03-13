@@ -7,5 +7,8 @@
                 "repo": "HKUDS/CLI-Anything"
             }
         }
+    },
+    "enabledPlugins": {
+        "cli-anything@cli-anything": true
     }
 }
